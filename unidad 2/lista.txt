@@ -3,3 +3,6 @@ huevos
 leche
 fideos
 juego
+manzanas
+naranjas
+anana
